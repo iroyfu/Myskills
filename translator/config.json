@@ -1,0 +1,12 @@
+{
+  "model_a": {
+    "base_url": "https://api.siliconflow.cn/v1",
+    "api_key": "sk-cgaqtrloeirmlfxdkxvtfuzonbttwgmzzqzekgdcfszbtkxf",
+    "model_name": "tencent/Hunyuan-MT-7B"
+  },
+  "model_b": {
+    "base_url": "https://api.siliconflow.cn/v1",
+    "api_key": "sk-cgaqtrloeirmlfxdkxvtfuzonbttwgmzzqzekgdcfszbtkxf",
+    "model_name": "zai-org/GLM-4.6"
+  }
+}
